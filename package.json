@@ -1,0 +1,23 @@
+{
+  "name": "raml-js-parser-machine-friendly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/raml-parse-machine-friendly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umezo/raml-js-parser-machine-friendly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umezo/raml-js-parser-machine-friendly/issues"
+  },
+  "homepage": "https://github.com/umezo/raml-js-parser-machine-friendly#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "raml-parser": "^0.8.15"
+  }
+}

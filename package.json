@@ -2,7 +2,7 @@
   "name": "raml-js-parser-machine-friendly",
   "version": "1.0.0",
   "description": "",
-  "main": "bin/raml-parse-machine-friendly.js",
+  "main": "bin/raml-parser-machine-friendly",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,8 @@
   "dependencies": {
     "path": "^0.12.7",
     "raml-parser": "^0.8.15"
+  },
+  "bin": {
+    "raml-parser": "bin/raml-parser-machine-friendly"
   }
 }

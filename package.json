@@ -21,6 +21,6 @@
     "raml-parser": "^0.8.15"
   },
   "bin": {
-    "raml-parser": "bin/raml-parser-machine-friendly"
+    "raml-parser-machine-friendly": "bin/raml-parser-machine-friendly"
   }
 }

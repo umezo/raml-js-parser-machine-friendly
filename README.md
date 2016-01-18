@@ -1,0 +1,1 @@
+# raml-js-parser-machine-friendly
